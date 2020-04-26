@@ -11,6 +11,8 @@ To the best of our knowledge, the individual-based epidemic models with learnabl
 Our model is fully compatible with the data structure of the ContactTracer application.
 
 
+[![](network.png)](network.png)
+
 FIG. 1 Diagrammatic representation of epidemic models in terms of reaction-diffusion processes. Boxes stand for different user states (compartments), while the arrows represent transitions between compartments, happening stochastically according to their respective rates [1].
 
 
